@@ -5,3 +5,9 @@ body
 	font-family : 'Source sans Pro', Calibri, Tahoma, sons-serfi;
 	background-image: url("TP2/images/monfond.jpg");
 }
+table
+{
+	width : 780px
+	background-color: #FFFFFF
+	
+}
