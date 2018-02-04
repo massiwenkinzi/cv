@@ -3,12 +3,15 @@ body
 	margin: 1em auto;
 	font-size : 16px;
 	font-family : 'Source sans Pro', Calibri, Tahoma, sons-serfi;
-	background-color:#DCDCDC
+	background-color:#DCDCDC;
 }
 
 table
 {
+	border-color: black;
+	border-style: solid;
 	width : 80%	
+	
 
 }
 
@@ -47,6 +50,14 @@ tr
 {
 	color: black;
 	text-align:justify;
+}
+
+footer
+{
+	font-weight: bold;
+	color: black;
+	text-align: center;
+	line-height: 70%
 }
 
 .genaral_info
